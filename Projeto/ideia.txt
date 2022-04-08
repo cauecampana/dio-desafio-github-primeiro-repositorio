@@ -1,0 +1,5 @@
+#	Ideia principal
+Uma aplicação web que trabalhe com alguma solução de container em cloud.
+
+##	Objetivo
+Criar uma instância virtual em um provedor de nuvem pública através de uma aplicação web.
